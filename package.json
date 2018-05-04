@@ -1,0 +1,18 @@
+{
+  "name": "deepcopy",
+  "version": "1.0.0",
+  "description": "Deep Copy for nested objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "copy",
+    "deep",
+    "deppcopy"
+  ],
+  "author": "Maykol Purica <puricamaykol@gmail.com>",
+  "license": "ISC"
+}
