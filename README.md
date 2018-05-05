@@ -1,14 +1,17 @@
-##DeepCopy
+DeepCopy
+--------
 
 Deep Copy for nested objects and arrays in JavaScript.
 
-##Install
+Install
+-------
 
 ```shell
 npm install mpjsdeepcopy --save
 ```
 
-##How to use it
+How to use it
+-------------
 
 ```javascript
 const deepCopy = require('mpjsdeepcopy'),
