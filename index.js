@@ -1,3 +1,2 @@
-let copy = require('./deepCopy');
-
+const copy = require('./deepCopy');
 module.exports = copy;
